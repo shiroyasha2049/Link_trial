@@ -1,0 +1,36 @@
+body{margin: 0;
+padding: 0;
+background-image: url(/10+\ Crumpled\ Paper\ Texture\ and\ Background\ for\ Design\ Project\ -\ Graphic\ Cloud.jpeg);
+background-attachment: fixed;
+}
+
+.box{display:flex;
+background-color: rgb(18, 13, 6);
+height:auto;
+justify-content: flex-end;
+padding: 10px;
+opacity: 0.5;}
+
+.items{background-color: aquamarine;
+margin: 5px;
+font-size: 20px;
+opacity: 1;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.sidebar{display: flex;
+background-color: blue;
+height: auto;
+flex-direction: column;
+display: inline-block ;
+text-align: center;
+padding-bottom: 10px;}
+
+.pic{width: 70px;
+    height: 70px;
+    background-color: aquamarine;
+    margin: 10px;}
+
+.text {color: aqua;
+    margin-bottom: 10px;
+}
